@@ -1,5 +1,7 @@
 # Реализуйте RLE алгоритм: реализуйте модуль сжатия и 
 # восстановления данных.
+# На сжатие входные данные: WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW
+# Выходные данные:          12W1B12W3B24W1B14W
 
 
 
